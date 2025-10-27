@@ -34,3 +34,4 @@ Outputs are saved in:
 - `plots/`
 
 The full report is in `AOMD Alina Imansakipova report.pdf`.
+The full code market-basket.ipynb
