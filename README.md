@@ -33,5 +33,5 @@ Outputs are saved in:
 - `csv results/`
 - `plots/`
 
-The full report is in `AOMD Alina Imansakipova report.pdf`.
-The full code market-basket.ipynb
+The full report is in `AMD Alina Imansakipova report.pdf`.
+The full code is in `market-basket.ipynb`.
