@@ -28,4 +28,9 @@ The pipeline includes:
 - **Word–Review Analysis:** ~90k baskets, frequent sets like `["read", "book"]`, `["good", "book"]`  
 - Association rules confirm strong semantic and behavioral patterns.  
 
-CSV outputs and plots are generated automatically
+CSV outputs and plots are generated automatically.
+Outputs are saved in:
+- `csv results/`
+- `plots/`
+
+The full report is in `AOMD Alina Imansakipova report.pdf`.
