@@ -1,0 +1,51 @@
+items,freq
+['book'],68339
+['read'],42670
+"['read', 'book']",34792
+['one'],33705
+"['one', 'book']",26584
+['like'],23637
+['story'],21782
+['time'],20242
+['good'],20198
+['great'],19716
+"['like', 'book']",19494
+['reading'],18996
+['books'],18740
+"['one', 'read']",18701
+['well'],18490
+['first'],17620
+['many'],16964
+['much'],16680
+"['good', 'book']",16618
+"['story', 'book']",16433
+['life'],16426
+"['time', 'book']",16318
+['also'],16042
+"['great', 'book']",15933
+"['reading', 'book']",15876
+"['one', 'read', 'book']",15680
+['even'],15036
+"['books', 'book']",15015
+"['well', 'book']",14866
+['really'],14758
+"['first', 'book']",14696
+['way'],14430
+['get'],14249
+['people'],14070
+"['many', 'book']",14057
+"['much', 'book']",13847
+['love'],13631
+"['also', 'book']",13343
+['characters'],13280
+"['life', 'book']",13144
+"['like', 'read']",13139
+['written'],12579
+"['really', 'book']",12496
+"['story', 'read']",12436
+"['even', 'book']",12409
+"['like', 'one']",12087
+"['way', 'book']",11962
+['think'],11943
+"['get', 'book']",11840
+"['people', 'book']",11821
